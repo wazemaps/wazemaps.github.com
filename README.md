@@ -1,2 +1,2 @@
-# wazemaps.github.com
+# Waze maps
 Waze maps live here. 
